@@ -1,0 +1,19 @@
+.item {
+  width: 100px;
+  border-radius: 5%;
+}
+.selectPage {
+  font-weight: bold;
+  color: gold;
+  padding: 0px 2px 0px 2px;
+}
+.Page {
+  color: black;
+  padding: 0px 2px 0px 2px;
+}
+.Page:hover {
+  background: gold;
+  color: #fff;
+  cursor: pointer;
+  font-weight: bold;
+}

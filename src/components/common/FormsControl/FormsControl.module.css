@@ -1,0 +1,21 @@
+.formControl {
+}
+.formControl.error input {
+  border: red solid 2px;
+}
+.formControl.error textarea {
+  border: red solid 2px;
+}
+.formControl.error span {
+  color: red;
+}
+.someError {
+  border: red solid 2px;
+  border-radius: 3px;
+  color: red;
+  width: 50%;
+}
+
+.LoginLogo {
+  text-align: center;
+}

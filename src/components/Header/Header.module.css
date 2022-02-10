@@ -1,0 +1,26 @@
+.header {
+  grid-area: h;
+  position: absolute;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 0 2px 4px rgb(228, 230, 232, 0.61);
+
+  height: 70px;
+  width: 100%;
+}
+.Login {
+  float: right;
+}
+.LoginName {
+  padding-left: 10px;
+}
+
+.headerImg {
+  padding-left: 10px;
+  padding-top: 4px;
+  height: 40px;
+}
+.headerImg img {
+  width: 45px;
+  height: 45px;
+  border-radius: 100%;
+}

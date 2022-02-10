@@ -1,0 +1,7 @@
+.item img {
+  width: 7%;
+  border-radius: 5%;
+}
+.item span img {
+  width: 2%;
+}
